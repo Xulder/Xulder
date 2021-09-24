@@ -1,6 +1,6 @@
 ### Hey, I'm Sebastian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-#### I live in Spokane Valley, Washington. I am soon to be attending Spokane Community College.
+#### I live in Spokane Valley, Washington. I'm a lifelong programmer.
 
 #### I want to increase my knowledge of software architecture, fullstack development, and algorithms. I plan to write [blog posts](website) to do this.
 
