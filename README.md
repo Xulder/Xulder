@@ -2,9 +2,9 @@
 
 #### I live in Spokane Valley, Washington. I am soon to be attending Spokane Community College.
 
-#### I want to increase my knowledge of software architecture, fullstack development, and algorithms. I write [blog posts](website) to do this.
+#### I want to increase my knowledge of software architecture, fullstack development, and algorithms. I plant to write [blog posts](website) to do this.
 
-#### When I’m not working or studying, I enjoy programming, playing games, reading, hiking, and experiencing new adventures.
+#### Other than working, in my free time I enjoy programming, reading, and learning new subjects.
 
 #### Currently learning:
 
